@@ -1,0 +1,9 @@
+🧾 Requirements
+
+Python 3.x
+
+TensorFlow
+
+NumPy
+
+Matplotlib
